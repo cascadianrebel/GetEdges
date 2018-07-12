@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Graphs">
+      <HintPath>..\..\..\..\codefellows\401\data-structures-and-algorithms\DataStructures\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

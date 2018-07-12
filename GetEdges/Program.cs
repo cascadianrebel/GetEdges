@@ -1,4 +1,6 @@
 ﻿using System;
+using Graphs;
+
 
 namespace GetEdges
 {
@@ -6,7 +8,7 @@ namespace GetEdges
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
